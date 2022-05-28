@@ -7,7 +7,7 @@ npm install
 
 # Run
 ```bash
-ts-node init/index.ts
+ts-node src/index.ts
 ```
 
 # Reference
